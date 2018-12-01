@@ -18,6 +18,7 @@
     "test": "jest"
   },
   "devDependencies": {
+    "assert": "^1.4.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.9.0",
     "eslint-config-prettier": "^3.3.0",
