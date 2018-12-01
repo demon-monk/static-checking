@@ -1,15 +1,13 @@
 {
-    "parserOptions": {
-        "ecmaVersion": 2018
-    },
-    "extends": [
-        "eslint:recommended"
-    ],
-    "rules": {
-        "valid-typeof": "error",
-        "no-console": "off"
-    },
-    "env": {
-        "browser": true
-    }
+  "parserOptions": {
+    "ecmaVersion": 2018
+  },
+  "extends": ["eslint:recommended", "eslint-config-prettier"],
+  "rules": {
+    "valid-typeof": "error",
+    "no-console": "off"
+  },
+  "env": {
+    "browser": true
+  }
 }
