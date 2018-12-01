@@ -9,6 +9,8 @@
     "no-console": "off"
   },
   "env": {
-    "browser": true
+    "browser": true,
+    "commonjs": true,
+    "jest": true
   }
 }
