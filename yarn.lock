@@ -487,6 +487,10 @@ prelude-ls@~1.1.2:
   version "1.1.2"
   resolved "http://registry.npm.taobao.org/prelude-ls/download/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
 
+prettier@^1.15.3:
+  version "1.15.3"
+  resolved "http://registry.npm.taobao.org/prettier/download/prettier-1.15.3.tgz#1feaac5bdd181237b54dbe65d874e02a1472786a"
+
 progress@^2.0.0:
   version "2.0.1"
   resolved "http://registry.npm.taobao.org/progress/download/progress-2.0.1.tgz#c9242169342b1c29d275889c95734621b1952e31"
